@@ -1,5 +1,5 @@
 # Final del curso web, React + Vite
-Una pequeña landing page para practicar React + Vite
+Una pequeña single page para practicar React + Vite
 
 ## Instrucciones para corre el proyecto
 - Verificar que tenga node.js instalado: node -v
